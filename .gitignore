@@ -13,3 +13,9 @@ venv/
 
 # Editors
 .vscode/
+
+# DB
+*.db
+
+# idea
+*.idea
